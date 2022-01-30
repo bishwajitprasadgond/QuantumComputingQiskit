@@ -5,4 +5,4 @@
 5) Depolarization BB84_Noise_Map.ipynb
 6) Depolarization E91.ipynb
 
-***These Above file are used for the depolarization part for our Research Paper. This file also include the Graph
+#These Above file are used for the depolarization part for our Research Paper. This file also include the Graph
